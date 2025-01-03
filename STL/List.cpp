@@ -1,8 +1,9 @@
-#include <iostream>
-#include <list>
-#include <algorithm> // For sort, reverse
-
+// Ekramul-Haque
+// In The Name of Almighty ALLAH
+#include <bits/stdc++.h>
 using namespace std;
+
+// list: Doubly-linked list; efficient insertions/removals anywhere in the container.
 
 int main() {
     // 1. Initialization of a list

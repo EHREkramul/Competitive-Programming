@@ -3,6 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// unordered_set: Stores unique elements with no order (uses hashing).
+
 int main() {
     // 1. Initialization of an Unordered Set
     unordered_set<int> us; // Creates an empty unordered set

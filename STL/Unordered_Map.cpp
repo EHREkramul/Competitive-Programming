@@ -3,6 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// unordered_map: Key-value pairs with no order.
+
 int main() {
     // 1. Initialization of an Unordered Map
     unordered_map<int, string> um; // Creates an empty unordered map

@@ -3,6 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// queue: FIFO (First In, First Out) adapter.
+
 int main() {
     // 1. Initialization of a queue
     queue<int> q; // Creates an empty queue

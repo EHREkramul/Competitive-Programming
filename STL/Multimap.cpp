@@ -3,6 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// multimap: Key-value pairs allowing duplicate keys.
+
 int main() {
     // 1. Initialization of a Multimap
     multimap<int, string> mm; // Creates an empty multimap

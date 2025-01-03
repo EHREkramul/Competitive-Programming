@@ -3,6 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// set: Stores unique, ordered elements.
+
 int main() {
     // 1. Initialization of a Set
     set<int> s; // Creates an empty set

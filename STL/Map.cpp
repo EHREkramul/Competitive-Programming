@@ -3,6 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// map: Key-value pairs with unique keys.
+
 int main() {
     // 1. Initialization of a Map
     map<int, string> m; // Creates an empty map

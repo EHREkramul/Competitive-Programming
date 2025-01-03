@@ -3,6 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// stack: LIFO (Last In, First Out) adapter.
+
 int main() {
     // 1. Initialization of a stack
     stack<int> st; // Creates an empty stack

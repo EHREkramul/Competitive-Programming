@@ -3,6 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// pair: Combines two values.
+
 int main() {
     // 1. Initialization with Constructor
     pair<int, int> p1(1, 2); // Pair with values 1 and 2

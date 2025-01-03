@@ -3,6 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// multiset: Allows duplicate, ordered elements.
+
 int main() {
     // 1. Initialization of a Multiset
     multiset<int> ms; // Creates an empty multiset. Ascending order

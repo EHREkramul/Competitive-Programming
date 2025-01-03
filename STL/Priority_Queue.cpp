@@ -3,6 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// priority_queue: A heap-based priority queue (max-heap by default).
+
 int main() {
     // 1. Initialization of a Max-Heap (Default)
     priority_queue<int> maxHeap; // Max-Heap: Largest element is on top

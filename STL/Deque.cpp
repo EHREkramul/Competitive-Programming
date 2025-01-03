@@ -3,6 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//deque: Double-ended queue; supports efficient insertion/removal at both ends.
+
 int main() {
     // 1. Initialization of a deque
     deque<int> dq1 = {1, 2, 3, 4, 5}; // Time Complexity: O(n)

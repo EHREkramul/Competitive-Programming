@@ -1,9 +1,9 @@
-#include <iostream>
-#include <vector>
-#include <algorithm> // For sort, reverse
-#include <numeric>   // For accumulate
-
+// Ekramul-Haque
+// In The Name of Almighty ALLAH
+#include <bits/stdc++.h>
 using namespace std;
+
+// vector: Dynamic array; allows random access and efficient appending.
 
 int main() {
     // 1. Initialization of a vector
